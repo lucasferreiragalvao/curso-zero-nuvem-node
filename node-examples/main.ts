@@ -1,4 +1,5 @@
-const fatorial = require('./fatorial');
+import { format } from "path";
+import {fatorial} from './fatorial';
 
 console.log('n-fatorial');
 
